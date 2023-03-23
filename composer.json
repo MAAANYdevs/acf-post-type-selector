@@ -1,5 +1,5 @@
 {
-  "name": "iceicetimmy/acf-post-type-selector",
+  "name": "vlip/acf-post-type-selector",
   "description": "Post type selector for Advanced Custom Fields.",
   "keywords": ["wordpress", "plugin", "advancedcustomfields", "acf", "custom-post-types"],
   "homepage": "https://github.com/TimPerry/acf-post-type-selector",
@@ -13,6 +13,6 @@
   ],
   "type": "wordpress-plugin",
   "require": {
-    "composer/installers": "~1.4"
+    "composer/installers": "^1.4|^2.0"
   }
 }
